@@ -52,7 +52,7 @@ npm run dev
 # Run frontend
 cd ../client
 npm start
-Access the application at http://localhost:3000.
+Access the application at http://localhost:5173/.
 
 Usage
 Users can sign up, log in, and search for available properties.
